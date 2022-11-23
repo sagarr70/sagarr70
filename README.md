@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarr70" alt="sagarr70" /></a> </p>
 
-- 🔭 I’m currently working as Apprentice Software Engineer at [3 Pillar Global](https://www.3pillarglobal.com/)
+- 🔭 I’m currently working as Software Engineer at [3 Pillar Global](https://www.3pillarglobal.com/)
 
 - 🌱 I’m currently learning **.Net , C# , Java , Javascript**
 
